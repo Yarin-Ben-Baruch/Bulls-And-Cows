@@ -40,10 +40,4 @@ The buttons on the right will be colored black for each "stamp" and yellow for e
 
 
 
-## Clone 
-
-```bash
-  git clone https://github.com/Daniel-Gelfand/BullsAndCowsDesktopApplication.git
-```
-
 ## 2021
